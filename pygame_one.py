@@ -1,5 +1,6 @@
 import pygame 
 
+# Dummy commit
 # Initialise the instance 
 pygame.init()
 # Surface dimentions
